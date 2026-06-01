@@ -1,0 +1,1 @@
+[{"Subject":"Release!","News":"CG3 Game Loader is out! There's currently 4 games, but more will be added soon!"}]
